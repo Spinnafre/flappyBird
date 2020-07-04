@@ -1,4 +1,4 @@
-# flappyBird
+# :metal: flappyBird
 Utilizando o Javascript, CSS e HTML tentei criar uma cópia simples do jogo flappy bird, apesar de não conseguir jogá-lo.
 
 <h1 align="center">
